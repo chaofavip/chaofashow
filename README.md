@@ -3,9 +3,6 @@
   <a href="https://github.com/chaofavip"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
 </p>
 
-<img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/883711.jpg" width="230">
-
-
 ```
                                  _                                  
                               _ooOoo_                               
@@ -27,3 +24,6 @@
   ================-.`___`-.__\ \___  /__.-'_.'_.-'================  
                               `=--=-'                            
 ```
+<p align="center">
+沉默是金，学海无边！
+</p>
