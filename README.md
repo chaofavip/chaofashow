@@ -1,7 +1,13 @@
-## 你好游客，欢迎来到知识追寻者的github; 知识追寻者致力于分享技术文章，构建知识图谱，帮助更多的人在自学的道路上更加轻松！
+<h2 align="center">👋 欢迎访问我的GitHub</h2>
+<p align="center">
+  <a href="https://github.com/chaofavip"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
+</p>
+
+<img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/883711.jpg" width="230">
 
 
-                                _                                  
+```
+                                 _                                  
                               _ooOoo_                               
                              o8888888o                              
                              88" . "88                              
@@ -20,3 +26,4 @@
                 \  \ `-.   \_\_`. _.'_/_/  -' _.' /                 
   ================-.`___`-.__\ \___  /__.-'_.'_.-'================  
                               `=--=-'                            
+```
